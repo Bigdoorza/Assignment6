@@ -14,13 +14,5 @@
     "year": "2022",
     "publisher": "Tech Press",
     "status": "borrowed"
-  },
-  {
-    "isbn": "2437535",
-    "title": "Test",
-    "author": "me",
-    "year": "2000",
-    "publisher": "me",
-    "status": "available"
   }
 ]
